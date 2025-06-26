@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-worker-alexeo",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "519c5680-d5b8-4cd2-b83f-8c9922a52432",
+      "database_name": "alexeo-benchmark-seo-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
